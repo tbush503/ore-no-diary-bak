@@ -1,3 +1,3 @@
-# react-ts-bvnhww
+# 俺の日記
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-bvnhww)
+[StackBlitz で編集 ⚡️](https://stackblitz.com/edit/ore-no-diary)
